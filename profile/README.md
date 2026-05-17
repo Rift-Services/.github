@@ -14,18 +14,9 @@ We are a software development team focused on building advanced Minecraft system
 
 ---
 
-## 👥 Team
-
-Our developers are specialized in building clean, powerful.
-
-- ♿ **confunce** – Founder & Lead Developer
-- ♿ **xaamder** – Founder & Head Developer
-
----
-
 ## 💼 Work With Us
 
 Interested in commissioning a custom solution or joining the studio?  
-Contact us at: **confunce@gmail.com / contact.xaander@gmail.com**
+Contact us at: **contact.xaander@gmail.com / contact.vainly@gmail.com**
 
 > `All rights reserved © Rys Studios ®` 
