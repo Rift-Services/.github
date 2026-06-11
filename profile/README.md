@@ -1,6 +1,6 @@
-# RIFT Studio ®
+# Astra Tools Studio ®
 
-Welcome to the official GitHub of **RIFT Studio**.  
+Welcome to the official GitHub of **Astra Tools Studio**.  
 We are a software development team focused on building advanced Minecraft systems, tools, and digital experiences.
 
 ---
@@ -19,4 +19,4 @@ We are a software development team focused on building advanced Minecraft system
 Interested in commissioning a custom solution or joining the studio?  
 Contact us at: **contact.xaander@gmail.com / contact.vainly@gmail.com**
 
-> `All rights reserved © Rift Studios ®` 
+> `All rights reserved © Astra Tools Studios ®` 
