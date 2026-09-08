@@ -1,7 +1,7 @@
-# Astra Tools Studio ®
+# Sakura Studio ®
 
-Welcome to the official GitHub of **Astra Tools Studio**.  
-We are a software development team focused on building advanced Minecraft systems, tools, and digital experiences.
+Welcome to the official GitHub of **Sakura Studio**.  
+We are a software development team focused on building advanced systems, tools, and digital experiences.
 
 ---
 
@@ -17,6 +17,6 @@ We are a software development team focused on building advanced Minecraft system
 ## 💼 Work With Us
 
 Interested in commissioning a custom solution or joining the studio?  
-Contact us at: **contact.xaander@gmail.com / contact.vainly@gmail.com**
+Contact us at: **contact.xaander@gmail.com / wantsmedeadcontact@gmail.com**
 
-> `All rights reserved © Astra Tools Studios ®` 
+> `All rights reserved © Sakura Studios ®` 
